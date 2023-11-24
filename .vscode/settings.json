@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "in.h": "c",
+        "cstdlib": "c",
+        "type_traits": "c",
+        "ip.h": "c"
+    }
+}
