@@ -3,6 +3,8 @@
         "in.h": "c",
         "cstdlib": "c",
         "type_traits": "c",
-        "ip.h": "c"
+        "ip.h": "c",
+        "libnetfilter_queue.h": "c",
+        "errno.h": "c"
     }
 }

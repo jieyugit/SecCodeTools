@@ -1,2 +1,1 @@
-
-gcc -o demo_icmp demo_icmp.c -lnet -lpthread
+gcc smurf.c -o smurf  -lnet -lpthread
